@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Alumni Members
-subtitle: 
-cover-img: https://www.kth.se/polopoly_fs/1.879624.1550231788!/image/KTHbanner_webb%20900.jpg
+title: Alumni 
+subtitle: Previous Lab Members
+cover-img: /assets/img/alumn.jpg
 ---
 
 
