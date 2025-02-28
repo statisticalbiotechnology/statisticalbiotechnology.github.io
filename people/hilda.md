@@ -2,8 +2,8 @@
 layout: page
 title: Hilda Andersson
 subtitle: Industry PhD Student
-cover-img: assets/img/Hilda2.jpg
-share-img: assets/img/Hilda2.jpg
+cover-img: assets/img/hilda.jpg
+share-img: assets/img/hilda.jpg
 social-network-links:
   email: "hildaand@scilifelab.se"
   github: "Hildingfisk"
