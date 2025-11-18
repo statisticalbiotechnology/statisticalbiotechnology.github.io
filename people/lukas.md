@@ -2,8 +2,8 @@
 layout: page
 title: Lukas Käll
 subtitle: Principle Investigator
-cover-img: /assets/img/lukas_chair.png
-share-img: /assets/img/lukas_chair.png
+cover-img: /assets/img/lukas.jpg
+share-img: /assets/img/lukas.jpg
 social-network-links:
   email: "lukas.kall@scilifelab.se"
   github: "percolator"
